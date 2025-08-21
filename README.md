@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Privacy-Focused Bash Developer
 ------------------------------
 
-Privacy-focused maker & aspiring cloud engineer. Building tools for security, automation, and resilience. Bash Scripting for privacy-focused tools. :)
+Privacy-focused maker & aspiring cloud engineer. Building tools for security, automation, and resilience. Bash Scripting for privacy-focused tools. I appreciate any support or donation :). Thanks
 
 * 🌍  I'm based in Portugal
 * ✉️  You can contact me at [heldernogueira.dev@gmail.com](mailto:heldernogueira.dev@gmail.com)
